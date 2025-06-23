@@ -1,0 +1,9 @@
+* {margin: 0;padding: 0;}
+
+/* init fonts */
+.jersey-10-regular {font-family: "Jersey 10", sans-serif;font-weight: 400;font-style: normal;}
+/* init style */
+
+.container {width:100vw;height:100vh;}
+.header {width:100vw;height:100px;background-color: black;position: sticky;top: 0;}
+.logo {margin-top:-78px;}
